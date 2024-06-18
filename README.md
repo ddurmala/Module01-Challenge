@@ -12,9 +12,9 @@ website can be accessed: https://ddurmala.github.io/horiseon_refactor/
 
 ## Usage
 
-    ![Screenshot](horiseon-screenshot-1.png)
-    ![Screenshot](horiseon-screenshot-2.png) 
-    ![Screenshot](horiseon-screenshot-3.png)
+    ![Screenshot](./horiseon-screenshot-1.png)
+    ![Screenshot](./horiseon-screenshot-2.png) 
+    ![Screenshot](./horiseon-screenshot-3.png)
             
 
 ## Credits
