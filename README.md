@@ -12,11 +12,10 @@ website can be accessed: https://ddurmala.github.io/horiseon_refactor/
 
 ## Usage
 
-    ```md
-    ![alt=horiseon screenshot #1](screenshots\horiseon-screenshot-1.png)
-    ![alt=horiseon screenshot #2](screenshots\horiseon-screenshot-2.png)
-    ![alt=horiseon screenshot #3](screenshots\horiseon-screenshot-3.png)
-    ```
+    ![Screenshot](horiseon-screenshot-1.png)
+    ![Screenshot](horiseon-screenshot-2.png) 
+    ![Screenshot](horiseon-screenshot-3.png)
+            
 
 ## Credits
 

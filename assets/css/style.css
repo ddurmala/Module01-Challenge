@@ -1,3 +1,8 @@
+/*Variables*/
+:root {
+    --primary-color: #ffffff;
+}
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -12,7 +17,7 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: --primary-color;
 }
 
 .header h1 {
@@ -42,7 +47,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: --primary-color;
     text-decoration: none;
 }
 
